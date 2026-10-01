@@ -59,12 +59,9 @@ data-warehouse-project/
 ├── datasets/                           # Raw datasets used for the project (ERP and CRM data)
 │
 ├── docs/                               # Project documentation and architecture details
-│   ├── etl.drawio                      # Draw.io file shows all different techniquies and methods of ETL
 │   ├── data_architecture.drawio        # Draw.io file shows the project's architecture
-│   ├── data_catalog.md                 # Catalog of datasets, including field descriptions and metadata
 │   ├── data_flow.drawio                # Draw.io file for the data flow diagram
-│   ├── data_models.drawio              # Draw.io file for data models (star schema)
-│   ├── naming-conventions.md           # Consistent naming guidelines for tables, columns, and files
+│   ├── data_models.drawio              # Draw.io file for data models (star schema)files
 │
 ├── scripts/                            # SQL scripts for ETL and transformations
 │   ├── bronze/                         # Scripts for extracting and loading raw data
@@ -93,8 +90,4 @@ I love exploring how raw data can be transformed into meaningful insights using 
 I’m currently building hands-on projects in data pipelines, ETL workflows, and cloud data solutions, while continuously learning advanced data concepts.
 My goal is to grow into a skilled Data Engineer who can design scalable, efficient, and secure data systems.
 
-Let’s stay connected and share knowledge!
 
-📫 Connect with me on:
-
- [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/allisherjakeer)
